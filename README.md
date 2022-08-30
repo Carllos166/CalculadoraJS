@@ -1,2 +1,2 @@
 # CalculadoraJS
-Calculadora em JS
+Projeto calculadora em JS
